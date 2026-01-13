@@ -11,7 +11,7 @@ redirect_from:
 
 For a longer pdf version, click [here][cv].
 
-[cv]: {{ site.baseurl }}{% link assets/files/perlcvshort.pdf %}
+[cv]: {{ site.baseurl }}{% link assets/files/perlcvshort_2025fall.pdf %}
 
 Education
 ======
