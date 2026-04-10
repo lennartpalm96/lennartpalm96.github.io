@@ -11,7 +11,7 @@ redirect_from:
 
 For a longer pdf version, click [here][cv].
 
-[cv]: {{ site.baseurl }}{% link assets/files/Lennart_Palm_CV_Jan_26.pdf %}
+[cv]: {{ site.baseurl }}{% link assets/files/CV_acc_April.pdf %}
 
 Education
 ======
