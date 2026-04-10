@@ -10,6 +10,6 @@ redirect_from:
 
 Welcome to my page! I am a PhD candidate in economics at the University of Duisburg-Essen and the [Doctoral Research Training Group on Regional Disparities & Economic Policy](https://www.regional-disparities.de).
 
-My research interests are urban and regional economics. In my current work, I place-based policies in South Korea.
+My research lies in urban and regional economics, with a particular focus on place-based policies and regional development in South Korea. In my work, I combine spatial data analysis and large administrative datasets to study how local policies shape economic outcomes across regions using both reduced form methods and qutitative spatial models.
 
-I graduated with master's in economics from the Technical University of Dresden. I obtained my bachelor's in economics from the Georg-August University of Göttingen. 
+I hold a Master’s degree in Economics from the Technical University of Dresden and a Bachelor’s degree in Economics from the Georg-August University of Göttingen.
