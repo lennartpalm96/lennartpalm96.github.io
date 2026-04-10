@@ -14,17 +14,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 # <center> Working Papers </center>
 - - -
 
-**Tasks, Cities and Wage Growth**. 2023. New draft coming soon! <br><br/>
-<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Ruhr Economic Papers Version][TCWGREP]] </small>
+**The Heterogeneous Effects of Highspeed-Rail Access on Establishment Performance**. (with Jaewon Jung) Work in Progress  <br><br/>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a>  </small>
 
 <div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Wage growth is stronger in larger cities, but this relationship holds exclusively for non-manual workers.  Using rich German administrative data, I study the heterogeneity in the pecuniary value of big city experience, a measure of dynamic agglomeration economies, and its consequences for the city-size wage gap. After 15 years of work experience in Munich the cumulative earnings premium relative to median-sized cities is 15% for workers in the most manual occupations, 25% for workers in the least manual occupations and 30% for workers in the most analytical occupations. This cumulative wage premium is 3 to 5 times the static city-size wage gap.
+The study examines the effect of the 2010 expansion of the Gyeongbu high-speed
+rail line on manufacturing establishments in South Korea, with a particular focus on the
+role of outsourcing. Using a triple difference-in-differences design, we study how the impact of
+improved station access varies with industry outsourcing intensity. Using establishment-level
+data, we find that improved HSR access is disproportionately beneficial in industries with higher
+outsourcing intensity. The effect is visible across the entire network, but it is most pronounced
+for establishments located within the catchment areas of newly added stations. We further
+provide evidence that treated high-outsourcing establishments marginally reduce employment,
+consistent with substituting in-house production with increased outsourcing, accompanied by
+increases in sales and sales per employee.
 </small><br><br/></div>
 
-[TCWG]: {{ site.baseurl }}{% link assets/files/TCWG_Vrep.pdf %}
-[TCWGREP]: {{ site.baseurl }}{% link assets/files/TCWG_Vrep.pdf %}
 
-**The Local Effects of Industrial Complexes**. 2026. (with Lennart Palm and Ugur Yesilbayraktar) <br><br/>
+
+**The Local Effects of Industrial Complexes**. 2026. (with Maximilian Perl and Ugur Yesilbayraktar) <br><br/>
 <small>[ <a href="#/" onclick="visib('korea')">Abstract</a> | [Working Paper][PPY_KoreanIndustrialComplexes]] </small>
 
 <div id="korea" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -36,20 +44,16 @@ We find no evidence that industrial complexes increase manufacturing establishme
 
 [PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
 
-**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) Submitted. <br><br/>
-<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a> | [Working Paper][gp_DistributionTasksSkills_2026jan16]] </small>
+**Moving Government, Moving People? Public Sector Relocation
+as a Place-Based Policy**. Work in Progress <br><br/>
+<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>  </small>
 
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
-Since the 1980s, the segregation of workers by skill across cities has consistently increased with high-skill workers sorting into larger cities. We show that changes in job task content can partially explain the evolution of spatial sorting by worker skill. Building on stylized facts of worker sorting, we propose a framework in which spatial sorting by worker skill arises from more productive cities having a comparative advantage in skill-intensive tasks. In equilibrium, initially more productive locations grow larger and attract more high-skill workers, and the urban wage premium is larger for both high-skilled workers and occupations with a higher share of skill-intensive tasks.
-Our framework yields two novel predictions. First, the observed skill-bias in the urban wage premium stems from a task-bias in agglomeration economies. Second, a worker's productivity in a specific city is determined by her occupation's task content and the city's comparative advantage in the production of skill-intensive tasks. %how much an occupation benefits from cities' productive advantages depends on both its task content and the strength of a city's comparative advantage in skill-intensive tasks. 
-Consequently, our model shows that the evolution of spatial sorting by skill can be explained by changes in job task content. Using administrative data from Germany, we find support for our model's predictions. The urban wage premium ranges from 1.7 to 2.5 percentage points depending on job task content. Moreover, we observe strong spatial sorting of occupations by their analytical task content. 
+Public sector relocations are a popular tool for regional balanced growth, given their low cost and expected impact on private sector growth.
+ This paper examines the effects of such relocations using a quantitative spatial general equilibrium model. We apply our framework to South Korea's Innovation City Project (ICP), which relocated over 42,000 public sector workers from the Seoul Metropolitan Area to ten designated sites across the country between 2012 and 2017, combined with residential construction projects. Our model features multiple regions with three sectors — a tradable private sector, a non-tradable private sector, and a public sector — and allows for both worker migration and commuting across locations. Our results show limited effects for isolated relocations, with public sector employment attracting nontradable private workers, balanced out by a crowding out of the tradable sector. Introducing residential construction into the counterfactual improves the effects of the relocations meaningfully. Our results highligh the importance of disentangling the impact of relocated jobs from concurrent parts of the policy when evaluating their effectiveness.
 </small><br><br/></div>
 
-[gp_DistributionTasksSkills_2026jan16]: {{ site.baseurl }}{% link assets/files/gp_DistributionTasksSkills_2026jan16.pdf %}
 
-# <center> Work in Progress </center>
-- - -
-**The Political Consequences of the Spanish Flu**.
 
 [//]: This java script is the button to show abstract
 <script>
