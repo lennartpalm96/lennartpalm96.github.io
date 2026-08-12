@@ -29,8 +29,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  consistent with substituting in-house production with increased outsourcing, accompanied by
  increases in sales and sales per employee.
 </small>
- <img src="{{ site.baseurl }}/images/maps/Gyeongbu_map(1).png" alt="Gyeongbu HSR line map" style="max-width:100%; border:1px solid #ddd;">
- <p style="font-size:0.85em; color:#666; text-align:center;">Gyeongbu HSR line — original route (blue) and 2010 extension (red) — with the study area, treated districts (light blue, within the 20km treatment range), and excluded districts (white).</p>
 </div>
 
 
@@ -54,11 +52,7 @@ as a Place-Based Policy**. Work in Progress <br><br/>
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
  Public sector relocations are a popular tool for regional balanced growth, given their low cost and expected impact on private sector growth.
   This paper examines the effects of such relocations using a quantitative spatial general equilibrium model. We apply our framework to South Korea's Innovation City Project (ICP), which relocated over 42,000 public sector workers from the Seoul Metropolitan Area to ten designated sites across the country between 2012 and 2017, combined with residential construction projects. Our model features multiple regions with three sectors — a tradable private sector, a non-tradable private sector, and a public sector — and allows for both worker migration and commuting across locations. Our results show limited effects for isolated relocations, with public sector employment attracting nontradable private workers, balanced out by a crowding out of the tradable sector. Introducing residential construction into the counterfactual improves the effects of the relocations meaningfully. Our results highligh the importance of disentangling the impact of relocated jobs from concurrent parts of the policy when evaluating their effectiveness.
-</small>
- <img src="{{ site.baseurl }}/images/maps/Overview.png" alt="Innovation City and Enterprise City locations" style="max-width:100%; border:1px solid #ddd;">
- <p style="font-size:0.85em; color:#666; text-align:center;">Korea's New Town programs by location: Innovation Cities (orange), Enterprise Cities (green), Sejong (pink), relative to the Seoul Metropolitan Area (blue).</p>
- <img src="{{ site.baseurl }}/images/maps/IC_2x2_panel.png" alt="Innovation City before/after construction" style="max-width:100%; border:1px solid #ddd; margin-top:12px;">
-<p style="font-size:0.85em; color:#666; text-align:center;">Before/after satellite imagery of two Innovation Cities — Wonju (Gangwon) pre-construction (2008) vs. built out (2016), and Busan pre-construction vs. built out (2017).</p>
+</small><br><br/>
 </div>
 
 [//]: This java script is the button to show abstract
