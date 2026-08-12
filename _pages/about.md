@@ -55,7 +55,7 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
       </a>
     </div>
     <div class="slide-caption">
-      <p class="slide-paper">The model from my third paper, <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">open the interactive model</a></p>
+      <p class="slide-paper">The model from my third paper, <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">open the interactive model (WIP)</a></p>
     </div>
   </div>
 
