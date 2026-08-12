@@ -19,7 +19,9 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
 <div class="paper-slideshow">
 
   <div class="slide fade">
-    <img src="{{ site.baseurl }}/images/maps/Gyeongbu_map(1).png" alt="Gyeongbu HSR line map">
+    <div class="slide-image">
+      <img src="{{ site.baseurl }}/images/maps/Gyeongbu_map(1).png" alt="Gyeongbu HSR line map">
+    </div>
     <div class="slide-caption">
       <p>Gyeongbu HSR line — original route (blue) and 2010 extension (red), with treated and excluded districts.</p>
       <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#design-based">The Heterogeneous Effects of Highspeed-Rail Access on Establishment Performance</a> (with Jaewon Jung)</p>
@@ -27,18 +29,34 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
   </div>
 
   <div class="slide fade">
-    <img src="{{ site.baseurl }}/images/maps/Overview.png" alt="Innovation City and Enterprise City locations">
+    <div class="slide-image">
+      <img src="{{ site.baseurl }}/images/maps/Overview.png" alt="Innovation City and Enterprise City locations">
+    </div>
     <div class="slide-caption">
       <p>Korea's New Town programs: Innovation Cities, Enterprise Cities, and Sejong, relative to the Seoul Metropolitan Area.</p>
-      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">interactive spatial model</a></p>
+      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
     </div>
   </div>
 
   <div class="slide fade">
-    <img src="{{ site.baseurl }}/images/maps/IC_2x2_panel.png" alt="Innovation City before and after construction">
+    <div class="slide-image">
+      <img src="{{ site.baseurl }}/images/maps/IC_2x2_panel.png" alt="Innovation City before and after construction">
+    </div>
     <div class="slide-caption">
       <p>Before/after satellite imagery of Innovation Cities Wonju and Busan.</p>
-      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">interactive spatial model</a></p>
+      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
+    </div>
+  </div>
+
+  <div class="slide fade">
+    <div class="slide-image">
+      <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">
+        <img src="{{ site.baseurl }}/images/maps/1786517842733_image.png" alt="Interactive spatial equilibrium model diagram">
+      </a>
+    </div>
+    <div class="slide-caption">
+      <p>Quantitative spatial equilibrium model — location &amp; commuting, production &amp; consumption, and wages, taxes &amp; rents circuits.</p>
+      <p class="slide-paper">This image links to the interactive artifact itself — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">open the live model</a></p>
     </div>
   </div>
 
@@ -49,6 +67,7 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
     <span class="dot" onclick="currentSlide(1)"></span>
     <span class="dot" onclick="currentSlide(2)"></span>
     <span class="dot" onclick="currentSlide(3)"></span>
+    <span class="dot" onclick="currentSlide(4)"></span>
   </div>
 
 </div>
@@ -62,11 +81,31 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
 .paper-slideshow .slide {
   display: none;
 }
-.paper-slideshow .slide img {
+.paper-slideshow .slide-image {
+  height: 320px;
   width: 100%;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f7f7f7;
   border: 1px solid #ddd;
   border-radius: 4px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.paper-slideshow .slide-image a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.paper-slideshow .slide-image img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  display: block;
 }
 .paper-slideshow .slide-caption {
   padding: 10px 4px 0 4px;
@@ -84,7 +123,7 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
 .paper-slideshow .slide-next {
   cursor: pointer;
   position: absolute;
-  top: 35%;
+  top: 150px;
   padding: 8px;
   color: #333;
   font-weight: bold;
@@ -92,6 +131,7 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
   user-select: none;
   background: rgba(255,255,255,0.75);
   border-radius: 50%;
+  z-index: 2;
 }
 .paper-slideshow .slide-prev { left: -10px; }
 .paper-slideshow .slide-next { right: -10px; }
