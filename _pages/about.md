@@ -18,142 +18,155 @@ I hold a Master’s degree in Economics from the Technical University of Dresden
 
 <div class="paper-slideshow">
 
-  <div class="slide fade">
-    <div class="slide-image">
-      <img src="{{ site.baseurl }}/images/maps/Gyeongbu_map(1).png" alt="Gyeongbu HSR line map">
-    </div>
-    <div class="slide-caption">
-      <p>Gyeongbu HSR line — original route (blue) and 2010 extension (red), with treated and excluded districts.</p>
-      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#design-based">The Heterogeneous Effects of Highspeed-Rail Access on Establishment Performance</a> (with Jaewon Jung)</p>
-    </div>
-  </div>
+<div class="slide fade">
+<div class="slide-image">
+<img src="{{ site.baseurl }}/images/maps/Gyeongbu_map(1).png" alt="Gyeongbu HSR line map">
+</div>
+<div class="slide-caption">
+<p>Gyeongbu HSR line — original route (blue) and 2010 extension (red), with treated and excluded districts.</p>
+<p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#design-based">The Heterogeneous Effects of Highspeed-Rail Access on Establishment Performance</a> (with Jaewon Jung)</p>
+</div>
+</div>
 
-  <div class="slide fade">
-    <div class="slide-image">
-      <img src="{{ site.baseurl }}/images/maps/Overview.png" alt="Innovation City and Enterprise City locations">
-    </div>
-    <div class="slide-caption">
-      <p>Korea's New Town programs: Innovation Cities, Enterprise Cities, and Sejong, relative to the Seoul Metropolitan Area.</p>
-      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
-    </div>
-  </div>
+<div class="slide fade">
+<div class="slide-image">
+<img src="{{ site.baseurl }}/images/maps/Overview.png" alt="Innovation City and Enterprise City locations">
+</div>
+<div class="slide-caption">
+<p>Korea's New Town programs: Innovation Cities, Enterprise Cities, and Sejong, relative to the Seoul Metropolitan Area.</p>
+<p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
+</div>
+</div>
 
-  <div class="slide fade">
-    <div class="slide-image">
-      <img src="{{ site.baseurl }}/images/maps/IC_2x2_panel.png" alt="Innovation City before and after construction">
-    </div>
-    <div class="slide-caption">
-      <p>Before/after satellite imagery of Innovation Cities Wonju and Busan.</p>
-      <p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
-    </div>
-  </div>
+<div class="slide fade">
+<div class="slide-image">
+<img src="{{ site.baseurl }}/images/maps/IC_2x2_panel.png" alt="Innovation City before and after construction">
+</div>
+<div class="slide-caption">
+<p>Before/after satellite imagery of Innovation Cities Wonju and Busan.</p>
+<p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a></p>
+</div>
+</div>
 
-  <div class="slide fade">
-    <div class="slide-image">
-      <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">
-        <img src="{{ site.baseurl }}/images/maps/1786517842733_image.png" alt="Interactive spatial equilibrium model diagram">
-      </a>
-    </div>
-    <div class="slide-caption">
-      <p class="slide-paper">The model from my third paper, <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">open the interactive model (WIP)</a></p>
-    </div>
-  </div>
+<div class="slide fade">
+<div class="slide-image">
+<a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">
+<img src="{{ site.baseurl }}/images/maps/1786517842733_image.png" alt="Interactive spatial equilibrium model diagram">
+</a>
+</div>
+<div class="slide-caption">
+<p class="slide-paper">The model from my third paper, <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="https://claude.ai/public/artifacts/ba265c2e-f117-4f06-9682-48564aa8224c" target="_blank" rel="noopener">open the interactive model (WIP)</a></p>
+</div>
+</div>
 
-  <a class="slide-prev" onclick="plusSlide(-1)">&#10094;</a>
-  <a class="slide-next" onclick="plusSlide(1)">&#10095;</a>
+<div class="slide fade">
+<div class="slide-image">
+<a href="{{ site.baseurl }}/images/maps/innovation_city_map.html" target="_blank" rel="noopener">
+<img src="{{ site.baseurl }}/images/maps/innovation_city_map_preview.png" alt="Interactive map of population change from job relocation">
+</a>
+</div>
+<div class="slide-caption">
+<p>Percentage change in population, baseline vs. counterfactual job relocation — hover any district for its name, exact change, baseline population, and Innovation City status.</p>
+<p class="slide-paper">From <a href="{{ site.baseurl }}/papers/#tasks">Moving Government, Moving People? Public Sector Relocation as a Place-Based Policy</a> — <a href="{{ site.baseurl }}/images/maps/innovation_city_map.html" target="_blank" rel="noopener">open the interactive map</a></p>
+</div>
+</div>
 
-  <div class="slide-dots">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-    <span class="dot" onclick="currentSlide(4)"></span>
-  </div>
+<a class="slide-prev" onclick="plusSlide(-1)">&#10094;</a>
+<a class="slide-next" onclick="plusSlide(1)">&#10095;</a>
+
+<div class="slide-dots">
+<span class="dot" onclick="currentSlide(1)"></span>
+<span class="dot" onclick="currentSlide(2)"></span>
+<span class="dot" onclick="currentSlide(3)"></span>
+<span class="dot" onclick="currentSlide(4)"></span>
+<span class="dot" onclick="currentSlide(5)"></span>
+</div>
 
 </div>
 
 <style>
 .paper-slideshow {
-  position: relative;
-  max-width: 380px;
-  margin: 30px auto;
+position: relative;
+max-width: 380px;
+margin: 30px auto;
 }
 .paper-slideshow .slide {
-  display: none;
+display: none;
 }
 .paper-slideshow .slide-image {
-  height: 320px;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #f7f7f7;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  overflow: hidden;
-  box-sizing: border-box;
+height: 320px;
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+background: #f7f7f7;
+border: 1px solid #ddd;
+border-radius: 4px;
+overflow: hidden;
+box-sizing: border-box;
 }
 .paper-slideshow .slide-image a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+height: 100%;
 }
 .paper-slideshow .slide-image img {
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  display: block;
+max-width: 100%;
+max-height: 100%;
+width: auto;
+height: auto;
+display: block;
 }
 .paper-slideshow .slide-caption {
-  padding: 10px 4px 0 4px;
+padding: 10px 4px 0 4px;
 }
 .paper-slideshow .slide-caption p {
-  font-size: 0.85em;
-  color: #666;
-  margin: 4px 0;
-  text-align: center;
+font-size: 0.85em;
+color: #666;
+margin: 4px 0;
+text-align: center;
 }
 .paper-slideshow .slide-paper {
-  font-style: italic;
+font-style: italic;
 }
 .paper-slideshow .slide-prev,
 .paper-slideshow .slide-next {
-  cursor: pointer;
-  position: absolute;
-  top: 150px;
-  padding: 8px;
-  color: #333;
-  font-weight: bold;
-  font-size: 20px;
-  user-select: none;
-  background: rgba(255,255,255,0.75);
-  border-radius: 50%;
-  z-index: 2;
+cursor: pointer;
+position: absolute;
+top: 150px;
+padding: 8px;
+color: #333;
+font-weight: bold;
+font-size: 20px;
+user-select: none;
+background: rgba(255,255,255,0.75);
+border-radius: 50%;
+z-index: 2;
 }
 .paper-slideshow .slide-prev { left: -10px; }
 .paper-slideshow .slide-next { right: -10px; }
 .paper-slideshow .slide-prev:hover,
 .paper-slideshow .slide-next:hover {
-  background: rgba(0,0,0,0.1);
+background: rgba(0,0,0,0.1);
 }
 .paper-slideshow .slide-dots {
-  text-align: center;
-  padding-top: 10px;
+text-align: center;
+padding-top: 10px;
 }
 .paper-slideshow .dot {
-  cursor: pointer;
-  height: 8px;
-  width: 8px;
-  margin: 0 4px;
-  background-color: #ccc;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.3s ease;
+cursor: pointer;
+height: 8px;
+width: 8px;
+margin: 0 4px;
+background-color: #ccc;
+border-radius: 50%;
+display: inline-block;
+transition: background-color 0.3s ease;
 }
 .paper-slideshow .dot.active {
-  background-color: #555;
+background-color: #555;
 }
 </style>
 
@@ -162,23 +175,23 @@ var slideIdx = 1;
 showSlideNum(slideIdx);
 
 function plusSlide(n) {
-  showSlideNum(slideIdx += n);
+showSlideNum(slideIdx += n);
 }
 function currentSlide(n) {
-  showSlideNum(slideIdx = n);
+showSlideNum(slideIdx = n);
 }
 function showSlideNum(n) {
-  var slides = document.getElementsByClassName("slide");
-  var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) { slideIdx = 1; }
-  if (n < 1) { slideIdx = slides.length; }
-  for (var i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  for (var i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIdx-1].style.display = "block";
-  dots[slideIdx-1].className += " active";
+var slides = document.getElementsByClassName("slide");
+var dots = document.getElementsByClassName("dot");
+if (n > slides.length) { slideIdx = 1; }
+if (n < 1) { slideIdx = slides.length; }
+for (var i = 0; i < slides.length; i++) {
+slides[i].style.display = "none";
+}
+for (var i = 0; i < dots.length; i++) {
+dots[i].className = dots[i].className.replace(" active", "");
+}
+slides[slideIdx-1].style.display = "block";
+dots[slideIdx-1].className += " active";
 }
 </script>
