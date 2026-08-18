@@ -711,7 +711,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
     };
   }
 
-  fetch("{{ site.baseurl }}/images/maps/districts_154_pop.geojson")
+  fetch("districts_154_pop.geojson")
     .then(function (r) {
       if (!r.ok) { throw new Error('HTTP ' + r.status + ' fetching GeoJSON'); }
       return r.json();
