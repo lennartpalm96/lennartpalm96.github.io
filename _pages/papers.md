@@ -45,15 +45,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 [PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
 
-**Moving Government, Moving People? Public Sector Relocation
-as a Place-Based Policy**. Work in Progress <br><br/>
-<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>] </small>
+**Moving Government, Moving People? The Effects of Public-Sector Relocation**. 2026. Working paper <br><br/>
+<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>] | [Working Paper][Palm_MovingGovernment] </small>
 
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
- Public sector relocations are a popular tool for regional balanced growth, given their low cost and expected impact on private sector growth.
-  This paper examines the effects of such relocations using a quantitative spatial general equilibrium model. We apply our framework to South Korea's Innovation City Project (ICP), which relocated over 42,000 public sector workers from the Seoul Metropolitan Area to ten designated sites across the country between 2012 and 2017, combined with residential construction projects. Our model features multiple regions with three sectors — a tradable private sector, a non-tradable private sector, and a public sector — and allows for both worker migration and commuting across locations. Our results show limited effects for isolated relocations, with public sector employment attracting nontradable private workers, balanced out by a crowding out of the tradable sector. Introducing residential construction into the counterfactual improves the effects of the relocations meaningfully. Our results highligh the importance of disentangling the impact of relocated jobs from concurrent parts of the policy when evaluating their effectiveness.
+ Public-sector relocations are a popular tool for balanced regional growth, given their low cost and expected impact on private sector growth. This paper examines the effects of such relocations using a quantitative spatial general equilibrium model. The model is quantified for South Korea and used to examine the general equilibrium effects of the Innovation City Project—a public-sector relocation that moved over 42,000 workers from the Seoul Metropolitan Area to ten designated sites across the country between 2011 and 2018. The project was accompanied by large-scale residential construction to house the incoming workers and attract additional private-sector employees. The model consists of several regions with limited land supply and three sectors: a public sector, a private tradable sector, and a private non-tradable sector. Households can commute to work and therefore choose their utility-maximizing residence-workplace location, accounting for goods and land prices at their residence, wages at their workplace, the disutility of commuting, and idiosyncratic amenities. The results show that, on average, each relocated public-sector worker increases employment in the non-tradable sector by 0.62 workers, while crowding out 0.24 workers in the tradable sector at the destination. Impacts of the policy are highly localized to the sending and receiving locations, with limited spillovers to surrounding regions.
 </small><br><br/>
 </div>
+
+[Palm_MovingGovernment]: {{ site.baseurl }}{% link assets/files/Palm_MovingGovernment.pdf %}
 
 # <center> Side Projects </center>
 - - -
