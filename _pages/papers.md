@@ -46,7 +46,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 [PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
 
 **Moving Government, Moving People? The Effects of Public-Sector Relocation**. 2026. Working paper <br><br/>
-<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>] | [Working Paper][Palm_MovingGovernment] </small>
+<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>] | [Working Paper][Palm_MovingGovernment]] </small>
 
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
  Public-sector relocations are a popular tool for balanced regional growth, given their low cost and expected impact on private sector growth. This paper examines the effects of such relocations using a quantitative spatial general equilibrium model. The model is quantified for South Korea and used to examine the general equilibrium effects of the Innovation City Project—a public-sector relocation that moved over 42,000 workers from the Seoul Metropolitan Area to ten designated sites across the country between 2011 and 2018. The project was accompanied by large-scale residential construction to house the incoming workers and attract additional private-sector employees. The model consists of several regions with limited land supply and three sectors: a public sector, a private tradable sector, and a private non-tradable sector. Households can commute to work and therefore choose their utility-maximizing residence-workplace location, accounting for goods and land prices at their residence, wages at their workplace, the disutility of commuting, and idiosyncratic amenities. The results show that, on average, each relocated public-sector worker increases employment in the non-tradable sector by 0.62 workers, while crowding out 0.24 workers in the tradable sector at the destination. Impacts of the policy are highly localized to the sending and receiving locations, with limited spillovers to surrounding regions.
@@ -59,7 +59,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **AI Adoption as a New Frontier of Regional Inequality in Korea**. 2026. Short paper <br><br/>
-<small>[ <a href="#/" onclick="visib('ai-korea')">Abstract</a>] | [Paper][Palm_AI_Korea] | [Replication package][Palm_AI_Korea_rep] </small><br/>
+<small>[ <a href="#/" onclick="visib('ai-korea')">Abstract</a>] | [Paper][Palm_AI_Korea]] | [Replication package][Palm_AI_Korea_rep]] </small><br/>
 <small><i>Built with AI: the analysis code, figures and text were developed with Claude.</i></small>
 
 <div id="ai-korea" style="display: none; text-align: justify; line-height: 1.2" ><small>
